@@ -1,2 +1,0 @@
-# stack_classifier_project
-We classified Stack Overflow Python questions from 2008-2016 with Natural Language Processing and Deep Learning. Using Regular Expressions, we removed HTML tags and punctuation. We also utilized spaCy to tokenize, lemmatize and remove stop words. Using Keras, we built a 4 layered artificial neural network with a 20% dropout rate using relu and softmax activation functions. We also utilized the adam optimizer and categorical cross-entropy loss function which classified 11 tags 88% successfully.
