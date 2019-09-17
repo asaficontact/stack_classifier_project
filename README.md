@@ -68,7 +68,7 @@ ax.fig.set_size_inches(18,8)
 ```
 
 
-![png](main_files/main_12_0.png)
+![png](README_files/main_12_0.png)
 
 
 ## Load Model
@@ -184,5 +184,5 @@ fig.tight_layout()
 ```
 
 
-![png](main_files/main_23_0.png)
+![png](README_files/main_23_0.png)
 
