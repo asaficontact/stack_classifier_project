@@ -1,8 +1,7 @@
 
 ## NOTE  
-#### Original files for the project exceed GitHub's maximum file size limit. Click on the link below to access complete code and data files for the project.
+#### Original files for the project exceed GitHub's maximum file size limit. Please contact me at asaficontact@gmail.com to access complete code and data files for the project.
 
-LINK: https://drive.google.com/open?id=1gEbe5F8N_S7Adk-vE3nAFDGBuGDukw8i
 
 ## Initial Setup
 
